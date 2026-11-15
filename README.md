@@ -50,9 +50,9 @@ I'm a Computer Systems Engineering student at QUEST Nawabshah, focused on AI, ma
 
 | Project | Description | Tech |
 |---|---|---|
-| [AttendAI](https://github.com/Fayaz-unar/AttendAI) | [AI-powered student attendance tracking system utilizing QR codes, OpenCV, SQLite, and Streamlit] | `Python` |
-| [HypothesisX](https://github.com/Fayaz-unar/HypothesisX-AI-Hypothesis-Agent) | [Multi-agent analytical system designed to generate structured hypotheses and alternative explanations] | `Python` `AI Agents` |
-| [Statistical Agent](https://github.com/Fayaz-unar/statistical-agent) | [Automated statistical analysis module built to handle data profiling and evaluation in multi-agent workflows] | `Python` `Statistics` |
+| [AttendAI](https://github.com/Fayaz-unar/AttendAI) | AI-powered student attendance tracking system utilizing QR codes, OpenCV, SQLite, and Streamlit | `Python` |
+| [HypothesisX](https://github.com/Fayaz-unar/HypothesisX-AI-Hypothesis-Agent) | Multi-agent analytical system designed to generate structured hypotheses and alternative explanations | `Python` `AI Agents` |
+| [Statistical Agent](https://github.com/Fayaz-unar/statistical-agent) | Automated statistical analysis module built to handle data profiling and evaluation in multi-agent workflows | `Python` `Statistics` |
 | [Portfolio](https://github.com/Fayaz-unar/portfolio) | Personal portfolio website with animations | `HTML` `CSS` `JS` |
 | [Student Record System](https://github.com/Fayaz-unar/Student-Record-System-C-Language-) | Menu-driven student management system with persistent file storage | `C` |
 
@@ -64,8 +64,7 @@ I'm a Computer Systems Engineering student at QUEST Nawabshah, focused on AI, ma
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Fayaz-unar&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz-unar&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Fayaz-unar&theme=tokyonight&hide_border=true)](https://github.com/Fayaz-unar)
 
 </div>
 
