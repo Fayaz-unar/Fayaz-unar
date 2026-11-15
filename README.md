@@ -70,11 +70,13 @@ Currently, I'm focusing on Python development, AI/ML, and intelligent systems wh
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fayaz-unar&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fayaz-unar&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz-unar&layout=compact&theme=tokyonight&hide_border=true" height="165">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz-unar&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=Fayaz-unar&theme=tokyonight&hide_border=true">
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Fayaz-unar&theme=tokyonight&hide_border=true" />
 
 </div>
 
